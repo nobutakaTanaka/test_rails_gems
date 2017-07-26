@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'crypt_auth'
+
+p CryptAuth::CryptAuth.new
